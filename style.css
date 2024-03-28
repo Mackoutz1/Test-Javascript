@@ -1,0 +1,43 @@
+body {
+    background-color: aqua;
+    font: 12pt arial, helvetica;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+header {
+    font-family: "Edu NSW ACT Foundation", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: italic;
+    padding-top: 20px;
+    font-size: x-large;
+}
+section {
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    background-color: aliceblue;
+    border-radius: 2px;
+    box-shadow: 5px 5px 10px rgb(29, 21, 21);
+}
+footer {
+    font-family: "Edu NSW ACT Foundation", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: italic;
+    font-size: x-large;
+}
+img {
+    padding-top: 50px;
+    height: 300px;
+    width: 300px;
+}
+#mensagem {
+    padding-top: 20px;
+    font-family: "Edu NSW ACT Foundation", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: italic;
+    font-size: xx-large;
+}
